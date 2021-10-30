@@ -1,1 +1,2 @@
-hi all welcome to GitLab..
+Hi all welcome to GitHub..
+I'm here to help u how to use GitHub..
